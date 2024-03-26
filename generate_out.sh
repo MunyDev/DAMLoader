@@ -1,0 +1,1 @@
+protoc --cpp_out=$(dirname $0)/out damloader.proto
