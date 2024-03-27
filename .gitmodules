@@ -1,0 +1,3 @@
+[submodule "xz-embedded"]
+	path = xz-embedded
+	url = https://github.com/tukaani-project/xz-embedded
